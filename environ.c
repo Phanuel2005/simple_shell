@@ -6,6 +6,7 @@ char **_getenv(const char *var);
 
 /**
  * _copyenv - Creates a copy of the environment.
+ * In collaboration with Dev Phanuel
  *
  * Return: If an error occurs - NULL.
  *         O/w - a double pointer to the new copy.
