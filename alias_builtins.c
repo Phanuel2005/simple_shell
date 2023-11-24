@@ -9,6 +9,7 @@ void print_alias(alias_t *alias);
  * aliases, or sets an alias.
  * @args: An array of arguments.
  * @front: A double pointer to the beginning of args.
+ * In collaboration with Dev Phanuel
  *
  * Return: If an error occurs - -1.
  *         Otherwise - 0.
