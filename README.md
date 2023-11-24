@@ -30,3 +30,5 @@ handle special characters : ", ', , \, *, &, #
 be able to move the cursor
 
 handle commands with arguments
+
+In collaboration with Dev Phanuel
