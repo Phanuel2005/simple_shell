@@ -7,6 +7,7 @@ int create_error(char **args, int err);
 /**
  * num_len - Counts the digit length of a number.
  * @num: The number to measure.
+ * In collaboration with Dev Phanuel
  *
  * Return: The digit length.
  */
